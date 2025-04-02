@@ -111,7 +111,7 @@ function MyProfile() {
                             endIcon={<Circle sx={{ fontSize: 100 }} />}
                             style={{ borderRadius: '30px' }}
                         >
-                            CONTACT ME
+                            CONTACT Me
                         </Button>
                         <IconButton
                             sx={{
@@ -221,7 +221,7 @@ function MyProfile() {
                 </Box>
 
                 {/* My Experience Subhead2 */}
-                <Box sx={{ display: 'flex', backgroundColor: 'black', width: '800px', justifyContent: 'space-between', mt: '20px' }}>
+                <Box sx={{ display: 'flex', backgroundColor: 'black', width: '800px', justifyContent: 'space-between' }}>
                     <Typography sx={{ flex: 1, ml: '345px', fontSize: '18px', fontWeight: '400' }}>
                         Front-End Intern
                     </Typography>
