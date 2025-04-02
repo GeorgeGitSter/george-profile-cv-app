@@ -73,6 +73,8 @@ function MyProfile() {
                 <Box sx={{
                     display: 'flex',
                     width: '800px',
+                    marginLeft: 'auto',
+                    marginRight: 'auto',
                     backgroundColor: 'black',
                     height: 'justifyContent',
                     // border: '1px solid #FFFFFF'
@@ -155,6 +157,8 @@ function MyProfile() {
                     backgroundColor: 'black',
                     height: 'justifyContent',
                     width: '800px',
+                    marginLeft: 'auto',
+                    marginRight: 'auto',
                     mt: '50px',
                     // border: '1px solid #FFFFFF'
                 }}>
@@ -185,6 +189,8 @@ function MyProfile() {
                 {/* About Me Subhead*/}
                 <Box sx={{
                     width: '800px',
+                    marginLeft: 'auto',
+                    marginRight: 'auto',
                     // border: '1px solid #FFFFFF'
                 }}>
                     <Typography sx={{
@@ -219,6 +225,8 @@ function MyProfile() {
                     display: 'flex',
                     backgroundColor: 'black',
                     width: '800px',
+                    marginLeft: 'auto',
+                    marginRight: 'auto',
                     mt: '50px',
                     // border: '1px solid #FFFFFF'
                 }}>
@@ -276,6 +284,8 @@ function MyProfile() {
                     display: 'flex',
                     backgroundColor: 'black',
                     width: '800px',
+                    marginLeft: 'auto',
+                    marginRight: 'auto',
                     mt: '50px',
                     justifyContent: 'space-between',
                     // border: '1px solid #FFFFFF'
@@ -310,6 +320,8 @@ function MyProfile() {
                 {/* My Experience Subhead*/}
                 <Box sx={{
                     width: '800px',
+                    marginLeft: 'auto',
+                    marginRight: 'auto',
                     // border: '1px solid #FFFFFF'
                 }}>
                     <Typography sx={{
@@ -340,6 +352,8 @@ function MyProfile() {
                     backgroundColor: 'black',
                     height: 'justifyContent',
                     width: '800px',
+                    marginLeft: 'auto',
+                    marginRight: 'auto',
                     justifyContent: 'space-between',
                     // border: '1px solid #FFFFFF'
                 }}>
@@ -363,6 +377,8 @@ function MyProfile() {
                 {/* My Experience Subhead3*/}
                 <Box sx={{
                     width: '800px',
+                    marginLeft: 'auto',
+                    marginRight: 'auto',
                     // border: '1px solid #FFFFFF'
                 }}>
                     <Typography sx={{
@@ -391,6 +407,8 @@ function MyProfile() {
                         alignItems: 'flex-start',
                         mt: '60px',
                         width: '870px',
+                        marginLeft: 'auto',
+                        marginRight: 'auto',
                     }}
                 >
                     <Box sx={{ flex: 1, maxWidth: '400px' }}>
